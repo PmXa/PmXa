@@ -1,4 +1,4 @@
-![Head banner](https://i.imgur.com/przQklb.png)
+![Head banner](https://user-images.githubusercontent.com/88341168/232689630-6eddac60-83ca-4043-a8db-b08c35c043f1.png)
 
 <h1 align="center">Hi there! I'm PmXa</h1>
 <h3 align="center">M. Sc. in Metallurgical Engineering</h3>
