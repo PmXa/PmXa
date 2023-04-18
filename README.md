@@ -1,3 +1,5 @@
+![Head banner](https://i.imgur.com/przQklb.png)
+
 <h1 align="center">Hi there! I'm PmXa</h1>
 <h3 align="center">M. Sc. in Metallurgical Engineering</h3>
 
@@ -11,9 +13,48 @@
 #### Currently working on:
   - Refactoring some old projects for fun
 
-#### 🌱 I’m currently learning 
+#### 🌱 I’m currently learning
   - Tkinter for Python GUIs
   - Data Science
+
+#### Languages & Tools:
+
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+         alt="arduino"
+         width="40"
+         height="40"/>
+  </a> 
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/oiSnRyq.png"
+         alt="git"
+         width="40"
+         height="40"/>
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/7u6lg69.png"
+         alt="linux"
+         width="40"
+         height="40"/>
+  </a>
+  
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/TN79DLs.png"
+         alt="matlab"
+         width="40"
+         height="40"/>
+  </a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/FP8HedK.png"
+         alt="python"
+         width="40"
+         height="40"/>
+  </a>
+</p>
 
 ---
 
