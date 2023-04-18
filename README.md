@@ -10,7 +10,7 @@
   - 🔗 Metallurgy & Materials Science
   - 🔥 Heat Transfer
 
-####  Currently working on:
+#### 💪 Currently working on:
   - Refactoring some old projects for fun
 
 #### 🌱 I’m currently learning
