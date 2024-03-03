@@ -5,19 +5,19 @@
 
 👋 Hi, I’m @PmXa, from Mx!
 
-#### 👀 I’m interested in:
+### 👀 I’m interested in:
   - 🧪 Chemistry
   - 🔗 Metallurgy & Materials Science
   - 🔥 Heat Transfer
 
-#### 💪 Currently working on:
+### 💪 Currently working on:
   - Refactoring some old projects for fun
 
-#### 🌱 I’m currently learning
+### 🌱 I’m currently learning:
   - Tkinter for Python GUIs
   - Data Science
 
-#### Languages & Tools:
+### Languages & Tools:
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
